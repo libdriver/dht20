@@ -10,7 +10,7 @@
 
 DHT20 is a new upgraded product of DHT11, equipped with a dedicated ASIC sensor chip, a high-performance semiconductor silicon-based capacitive humidity sensor and a standard onchip temperature sensor, and uses a standard I2C data output signal format. Its performance has been greatly improved and has exceeded the reliability level of the previous generation sensor.The new generation of upgraded products have been improved to make their performance more stable in high temperature and high humidity environments; at the same time, the accuracy, response time, and measurement range of the product have been greatly improved.Each sensor is rigorously calibrated and tested before leaving the factory to ensure and satisfy customer’s large-scale applications. It can be used in HVAC, dehumidifier, testing and inspection equipment, consumer products, automobiles, automatic control, data loggers, weather stations, home appliances, humidity control, medical and other application fields which need to detect and control temperature and humidity.
 
-Libdriver DHT20 is the full function driver of DHT20 launched by LibDriver.It provides the function of reading temperature and relative humidity. LibDriver is MISRA compliant.
+LibDriver DHT20 is the full function driver of DHT20 launched by LibDriver.It provides the function of reading temperature and relative humidity. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
