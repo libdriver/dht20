@@ -215,6 +215,12 @@ uint8_t dht20_init(dht20_handle_t *handle)
         
         return 3;                                                      /* return error */
     }
+    if (handle->delay_ms == NULL)                                      /* check delay_ms */
+    {
+        handle->debug_print("dht20: delay_ms is null.\n");             /* delay_ms is null */
+        
+        return 3;                                                      /* return error */
+    }
     
     if (handle->iic_init() != 0)                                       /* iic init */
     {
