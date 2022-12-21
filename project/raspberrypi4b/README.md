@@ -74,13 +74,13 @@ find_package(dht20 REQUIRED)
 
 #### 3.1 Command Instruction
 
-1. Show dht20 help.
+1. Show dht20 chip and driver information.
 
    ```shell
    dht20 (-i | --information)
    ```
 
-2. Show dht20 chip and driver information.
+2. Show dht20 help.
 
    ```shell
    dht20 (-h | --help)
