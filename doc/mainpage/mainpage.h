@@ -1,6 +1,6 @@
 /**
  * @mainpage  LibDriver DHT20
- * @brief     libdriver dht20 is a full function driver of dht20 and it can run in both MCU and Linux platform.
+ * @brief     LibDriver DHT20 is a full function driver of DHT20 and it can run in both MCU and Linux platform.
  * @version   1.0.0
  * @author    Shifeng Li
  *
