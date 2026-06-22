@@ -116,7 +116,7 @@ dht20: driver version is 1.0.
 dht20: min supply voltage is 2.2V.
 dht20: max supply voltage is 5.5V.
 dht20: max current is 0.98mA.
-dht20: max temperature is 85.0C.
+dht20: max temperature is 80.0C.
 dht20: min temperature is -40.0C.
 ```
 
